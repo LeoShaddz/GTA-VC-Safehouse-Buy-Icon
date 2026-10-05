@@ -1,4 +1,4 @@
-# GTA Vice City Safehouse Buy Icon
+# GTA Vice City Safehouse Buy Icon Mod
 
 This mod adds icons for purchasable safehouses to the minimap and map. It does not include icons for assets, as Silent Patch already handles that.
 
