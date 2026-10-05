@@ -1,4 +1,3 @@
-```cpp
 // SafehouseBuyIcon.asi - GTA Vice City PC v1.0
 // Shows the purchase icon (the "property" sprite) on the minimap and map for safehouses
 // that have not yet been purchased, at the same time as the other radar icons
@@ -309,4 +308,3 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID)
     }
     return TRUE;
 }
-```
